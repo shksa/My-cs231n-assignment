@@ -1,1 +1,1 @@
-# My-cs231n-assignment
+# My-cs231n-assignment3 solutions
